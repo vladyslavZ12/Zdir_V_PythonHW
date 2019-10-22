@@ -20,4 +20,4 @@ Built with Python3
 Author
 1. Vladyslav
 
-license
+
